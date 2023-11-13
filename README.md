@@ -1,4 +1,4 @@
-# Lista della spesa con while / do-while
+# Lista della spesa con il loop "while / do-while"
 
 1. dichiaro un array _list_, che contiene tutti gli elementi della lista della spesa
 2. dichiaro una variabile _i_, che è il mio singolo elemento
